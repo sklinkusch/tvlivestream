@@ -1,0 +1,46 @@
+### Public German channels
+## Countrywide
+http://mcdn.daserste.de/daserste/de/master.m3u8 ard daserste das-erste das_erste
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8 zdf
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8 one
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8 zdfneo zdf-neo zdf_neo
+http://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8 kika kinderkanal
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8 arte arte-de arte-deutsch arte-deutschland
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8 arte-fr arte-franzoesisch arte-französisch arte-frankreich
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8 3sat
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8 phoenix
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8 tagesschau24 tagesschau-24 t24 t-24 tagesschau
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8 zdfinfo zdf-info zdf_info
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8 dw deutschewelle deutsche-welle
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8 ardalpha ard-alpha alpha
+## Regional
+# BR (Bavaria)
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8 brnord br-nord br-franken br-oberfranken br-mittelfranken br-unterfranken
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8 brsued brsüd br-sued br-süd br-schwaben br-altbayern br-oberbayern br-niederbayern br-oberpfalz
+# HR (Hesse)
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8 hr
+# MDR (Saxony, Saxony-Anhalt, Thuringia)
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8 mdr-sn mdrsn mdr-sachsen mdr-saxony
+http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/master.m3u8 mdr-sa mdr-sachsen-anhalt mdr-sachsenanhalt mdr-saxony-anhalt mdr-saxonyanhalt
+http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/master.m3u8 mdr-th mdr-thueringen mdr-thüringen mdr-thuringia
+# NDR (Hamburg, Lower Saxony, Mecklenburg-Western Pomerania, Schleswig-Holstein)
+http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8 ndrhh ndr-hh ndr-hamburg
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8 ndrnds ndr-nds ndr-niedersachsen ndr-lower-saxony ndr-lowersaxony
+http://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8 ndrmv ndr-mv ndr-mecklenburgvorpommern ndr-mecklenburg-vorpommern ndr-mecklenburg-western-pomerania ndr-mecklenburgwesternpomerania
+http://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8 ndrsh ndr-sh ndr-schleswigholstein ndr-schleswig-holstein
+# RBB (Brandenburg, Berlin)
+http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8 rbb-bbg rbb-brandenburg
+http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8 rbb-bln rbb-berlin
+# SR (Saarland)
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8 sr
+# SWR (Baden-Württemberg, Rhineland-Palatinate)
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8 swrbw swr-bw swr-baden-wuerttemberg swr-baden-württemberg swr-badenwuerttemberg swr-badenwürttemberg
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8 swrrp swr-rp swr-rheinland-pfalz swr-rhineland-palatinate swr-rhinelandpalatinate swr-rheinlandpfalz
+# WDR (Northrhine-Westphalia)
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8 wdr
+### Public Austrian channels
+## Countrywide
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8 orf1 orf-1
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8 orf2 orf-2
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8 orf3 orf-3
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8 orfsport orf-sport
