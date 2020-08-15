@@ -8,7 +8,7 @@ no warnings "experimental";
 use diagnostics;
 use FindBin;
 
-my %mpvOptions = ("none" => "", "mute" => "-mute");
+my %mpvOptions = ("none" => "--volume-max=200 -fs --cache-secs=20", "mute" => "--volume-max=200 -fs --cache-secs=20 -mute");
 my %mpv = ("player" => "mpv", "options" => \%mpvOptions);
 my %player = ("mpv" => \%mpv);
 
