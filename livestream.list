@@ -9,7 +9,7 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8 arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8 arte-fr arte-franzoesisch arte-französisch arte-frankreich
 http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8 3sat
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8 phoenix
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8 tagesschau24 tagesschau-24 t24 t-24 tagesschau
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8 tagesschau24 tagesschau-24 t24 t-24 tagesschau
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8 zdfinfo zdf-info zdf_info
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8 dw deutschewelle deutsche-welle
 #https://www.youtube.com/watch?v=pPgGsAcEEZI dwdeutsch dw-deutsch dw-german dwgerman
@@ -36,10 +36,22 @@ https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8 rbb
 # SR (Saarland)
 http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8 sr
 # SWR (Baden-Württemberg, Rhineland-Palatinate)
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8 swrbw swr-bw swr-baden-wuerttemberg swr-baden-württemberg swr-badenwuerttemberg swr-badenwürttemberg
-https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8 swrrp swr-rp swr-rheinland-pfalz swr-rhineland-palatinate swr-rhinelandpalatinate swr-rheinlandpfalz
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8 swrbw swr-bw swr-baden-wuerttemberg swr-baden-württemberg swr-badenwuerttemberg swr-badenwürttemberg
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8 swrrp swr-rp swr-rheinland-pfalz swr-rhineland-palatinate swr-rhinelandpalatinate swr-rheinlandpfalz
 # WDR (Northrhine-Westphalia)
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8 wdr
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8 wdr wdr-weltweit
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8 wdr-deutschland
+https://wdrlokalzeit.akamaized.net/hls/live/2018019/wdrlz_aachen/index.m3u8 wdr-aachen wdr-ac
+https://wdrlokalzeit.akamaized.net/hls/live/2018026/wdrlz_bielefeld/index.m3u8 wdr-bielefeld wdr-bi
+https://wdrlokalzeit.akamaized.net/hls/live/2018021/wdrlz_bonn/index.m3u8 wdr-bonn wdr-bn
+https://wdrlokalzeit.akamaized.net/hls/live/2018022/wdrlz_dortmund/index.m3u8 wdr-dortmund wdr-do
+https://wdrlokalzeit.akamaized.net/hls/live/2018023/wdrlz_duesseldorf/index.m3u8 wdr-duesseldorf wdr-d
+https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8 wdr-duisburg wdr-du
+https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8 wdr-essen wdr-e
+https://wdrlokalzeit.akamaized.net/hls/live/2023550/wdrlz_koeln/index.m3u8 wdr-koeln wdr-k
+https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8 wdr-muenster wdr-ms
+https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/index.m3u8 wdr-siegen wdr-si
+https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8 wdr-wuppertal wdr-w
 ### Public Austrian channels
 ## Countrywide
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8 orf1 orf-1
